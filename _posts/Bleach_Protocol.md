@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Bleach, Protocol]
 ---
 
-#### This protocol was written by [Joel Hartery](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/) for the Putnam, Prada, and Puritz labs
+#### This protocol was written by Joel Hartery for the Putnam, Prada, and Puritz labs
 
 1. Bleach can be made at either 10% or 20%.
 2. Making bleach:  
